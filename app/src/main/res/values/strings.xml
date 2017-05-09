@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Churrascômetro</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_others">Others</string>
+    <string name="menu_categories">Categories</string>
+    <string name="title_activity_categories">Categories</string>
+    <string name="title_activity_form">Churrascômetro</string>
+    <string name="title_activity_segunda">Churrascômetro</string>
+    <string name="title_activity_terceira">Churrascômetro</string>
+    <string name="title_activity_quarta">Churrascômetro</string>
+    <string name="title_activity_resultado">Churrascômetro</string>
+</resources>
